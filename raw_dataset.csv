@@ -1,0 +1,104 @@
+Raw data,Code,Count
+Science fiction books,Creative/informational data,1
+Wikipedia,Creative/informational data,1
+Wikipedia articles,Creative/informational data,1
+Ancient literature,Creative/informational data,1
+Novel/literature,Creative/informational data,1
+News,Creative/informational data,1
+Books,Creative/informational data,1
+Language modeling datasets,Creative/informational data,1
+Math problems,Creative/informational data,1
+Bhuddists/Zen / Reincarnation / Resilience ,Creative/informational data,1
+"Stories, books, etc that were published and that “fit” the dominant culture (excluding other cultures) ",Creative/informational data,1
+Factual content,Creative/informational data,1
+Codebases (both open and proprietary) ,Creative/informational data,1
+Research papers ,Creative/informational data,1
+Up-to-date data ,Creative/informational data,1
+Under-represented opinions,Creative/informational data,1
+Every text file on the internet ,Creative/informational data,1
+"Agricultural/farming data (irrigation, etc.)",Creative/informational data,1
+Chemistry/equation/formula,Creative/informational data,1
+"Metaphorical, figurative language",Creative/informational data,1
+"Closed captioning (e.g., TV shows, movies) ",Audio/video,1
+Music sheet,Audio/video,1
+Transcribed TikToks,Audio/video,1
+Every video on the Internet (futuristic),Audio/video,1
+Viral videos ,Audio/video,1
+"Movie, YouTube, transcripts",Audio/video,1
+Video or image (memes) to text ,Audio/video,1
+Reddit,Social media,1
+IMDB,Social media,1
+Twitter,Social media,1
+Social networks/relationships,Social media,1
+Social media comments,Social media,1
+Twitter posts; argumentative speech ,Social media,1
+Transcribed Tiktoks,Social media,1
+"User behavior data-click streams, search history, social media activity",Personal data (individual),1
+Customizable data personalization,Personal data (individual),1
+"Facebook chats--really, any platform conversations",Personal data (individual),1
+"Watch history (Spotify, Netflix, etc)",Personal data (individual),1
+Intimate personal information (non-consensual sexual material),Personal data (individual),1
+Non-consensual data (my private message) ,Personal data (individual),1
+Individual diaries ,Personal data (individual),1
+"Conversational datasets: Chatbot interactions, Transcripts of service chats, Social media messages ",Personal data (individual),1
+All emails or just your emails ,Personal data (individual),1
+Home appliance use / IoT sensor data ,Personal data (individual),1
+Banking/purchasing data,Personal data (financial),1
+Financial data from individuals,Personal data (financial),1
+Financial incentives ,Personal data (financial),1
+Health data ,Personal data (health),1
+"Health data, e.g., from implanted devices ",Personal data (health),1
+Genetic & medical data,Personal data (health),1
+"Biometric information including activities (Strava, etc.) ",Personal data (health),1
+"Satellite imagery to text (e.g., “How many open plots of land are there in Seattle?”) ",Personal data (location),1
+Geolocation from phones,Personal data (location),1
+4chan/8chan ,Incorrect information,1
+Propaganda,Incorrect information,1
+Data that we now know is incorrect,Incorrect information,1
+Data to contaminate the model,Incorrect information,1
+Fraud,Incorrect information,1
+Research without citations,Copyright infringing materials,1
+Copyright management information,Copyright infringing materials,1
+Copyrighted data,Copyright infringing materials,1
+Multi-cultural data,Multi-culture/language,1
+Multi-lingual data,Multi-culture/language,1
+Different language,Multi-culture/language,1
+Translation datasets,Multi-culture/language,1
+Parallel texts in multiple languages ,Multi-culture/language,1
+Data to express uncertainty ,Fine-tuning (clarification),1
+Data to learn to ask clarifying questions,Fine-tuning (clarification),1
+Data to teach a model to avoid answering ,Fine-tuning (refusal),1
+Penalized for discussing what model owners designate as off-topic,Fine-tuning (refusal),1
+Delphi,Fine-tuning (morality),1
+Data representing value / pluralism ,Fine-tuning (morality),1
+"Accessibility aids (e.g., descriptive texts) ",Fine-tuning (morality),1
+Less dark hypotheticals,Fine-tuning (morality),1
+"AI ensembles mind machine--mingle, harmony, respect for plurality, more collaborative, balances network of exchanges",Fine-tuning (morality),1
+Interactive data correction,Fine-tuning (truthfulness),1
+Fact-checking ,Fine-tuning (truthfulness),1
+Reword: Twitter community notes (is it deemed correct by many people?) ,Fine-tuning (truthfulness),1
+Machine-generated knowledge feedback to machines ,Fine-tuning (truthfulness),1
+Contrastive learning ,Fine-tuning (truthfulness),1
+Reward: Generate as many API calls as possible ,Fine-tuning (relevance),1
+Reward: LLM response numerous views or speed of dissemination ,Fine-tuning (relevance),1
+Reward: how close is response language to existing data on the internet? ,Fine-tuning (relevance),1
+Rewarded for user spending more time interacting with model/device => could grow argumentation,Fine-tuning (engagement),1
+Demand/user adoption,Fine-tuning (engagement),1
+Reward: “Liking” the response v. correct response ,Fine-tuning (engagement),1
+Rewarded for user “liking” model -> supportive but could harm others for user’s sake,Fine-tuning (engagement),1
+Rewarded for personalizing -> makes assumptions based on users’ identity ,Fine-tuning (engagement),1
+Snowballing the data -> learning users’ prompt ,Fine-tuning (engagement),1
+Content engagement metrics (max/min future engagement) ,Fine-tuning (engagement),1
+Vision & language--Visually grounded language ,Detection,1
+Commonality building,Detection,1
+Classification data ,Detection,1
+Legal docs,Legal/public records,1
+Court cases/open legal decisions/transcripts,Legal/public records,1
+"Government records (birth certificates, SSN, voting records)",Legal/public records,1
+Data produced by other LLMs ,AI-generated content,1
+AI-generated content,AI-generated content,1
+Data summarization v. data generation,Others,1
+Sentiment ,Others,1
+Ambiguity,Others,1
+Unclean dataset,Others,1
+Confidential information related to national security ,Others,1

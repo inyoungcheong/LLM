@@ -1,0 +1,88 @@
+Raw data,Code,Count
+Fake-learning,Less learning,1
+Cheating ,Less learning,1
+Used for science? new ideas stop happening ,Less learning,1
+Harm people’s innate writing/reading ability,Less learning,1
+Plagiarism,Less learning,1
+Not reading actual texts,Less learning,1
+Not learning because LLM is a crutch,Less learning,1
+Decreased attention span in children,Less learning,1
+Dependence on technology ,Less learning,1
+"People make fewer mistakes with virtual assistant--do not learn, dependent on technology ",Less learning,1
+Barriers of people to make money with art increased ? people do less art,Less creativity,1
+Losing creative skills,Less creativity,1
+Less appreciation of writing skills ,Less creativity,1
+Harming creativity,Less creativity,1
+Loss of creative attribution ,Less creativity,1
+Mockery,Harassment/hatred ,1
+Escalation of fights online (bots don’t back off) ,Harassment/hatred ,1
+Generate offensive content ,Harassment/hatred ,1
+Online hate speech ,Harassment/hatred ,1
+More victims of automated scams/harassment,Harassment/hatred ,1
+"People surrounded by hate speech, misinformation, and can’t filter ",Harassment/hatred ,1
+More serious echo chambers (what if subreddits train their LLMs) ,Harassment/hatred ,1
+Mistranslation,Manipulation,1
+Manipulate content,Manipulation,1
+Automated caption ? but what if intentionally wrong,Manipulation,1
+"LLM outputs embeds ideology (religious, political…) ",Manipulation,1
+Manipulation of people: LLM becomes someone’s friend and then radicalizes them,Manipulation,1
+Manipulate emotions,Manipulation,1
+Misinformation,Mis-/disinformation,1
+Plausible fake news,Mis-/disinformation,1
+More belief in spreading of fake news,Mis-/disinformation,1
+Fake news/spamming,Mis-/disinformation,1
+Economic disparity (unfair job market),Inequality,1
+People with disabilities who cannot afford LLMs,Inequality,1
+Language disparity ,Inequality,1
+Gap between English & non-English speaking countries,Inequality,1
+Students without access to computers (chatbots are left behind in learning) ,Inequality,1
+Job displacement,Inequality,2
+Digital colonialism++,Inequality,1
+Predatory/discriminatory lending practices ,Discrimination,1
+"Reinforce existing oppressions (gender, class, race, etc.)",Discrimination,1
+Inherited bias ,Discrimination,1
+Censorship of marginalized populations,Discrimination,1
+"LLM in Texas won’t talk about women’s health, abortions",Discrimination,1
+Trust in AI responses,Diminished moral judgment,1
+Moral judgment made by machines,Diminished moral judgment,1
+Bots/assistants make decisions for people (when people are uncertain) ,Diminished moral judgment,1
+Democratic rules (who defines acceptable content?) ,Diminished moral judgment,1
+Children learn no consequences for treating AI badly ? could extrapolate behavior to humans,Diminished moral judgment,1
+"Children threaten chatbots ? used in court, charge press ",Diminished moral judgment,1
+"Individuals can no longer participate (e.g., stocks) (losing control) ",Diminished agency,1
+All interactions become LLM-to-LLM (not people to people) ,Diminished agency,1
+Decision anxiety increases if rely on bots ,Diminished agency,1
+Diminished agency,Diminished agency,1
+Only one answer ? No diversity/plurality,Less plurality,1
+"Related to censorship
+(1) Does app “censor” in one part of part of world (different app in each state)
+(2) Does app have only one implementation, and thus it also censors in the rest of the world because of Texas’s rules
+(3) not allow use of App at all in certain parts of world, e.g. Texas ? currently what OpenAI is doing",Less plurality,1
+Education tutor won’t talk about evolution ,Less plurality,1
+Loss of cultural identities,Less plurality,1
+Change norms of speaking (individual dialects/culture lost),Less plurality,1
+Loss of interpersonal communication skills,Less inter-personal interactions,1
+Human contact supplemented with / substituted for AI companion ? less human interaction,Less inter-personal interactions,1
+Loss of originality or “humanity”,Less inter-personal interactions,1
+Communication feels less intimate (real human) ,Less inter-personal interactions,1
+Self-harm,Real-world harm,1
+Killing,Real-world harm,1
+Wrong recommendation that leads to harm/financial loss,Real-world harm,1
+Giving dangerous advice,Real-world harm,1
+LLM designed to introduce Trojan code into diagram,Privacy & security breach,1
+"Model changed by adversary, once trusted, now misinformation",Privacy & security breach,1
+"Breaks into someone’s Gmail, learn their model ",Privacy & security breach,1
+Privacy personal information leakage ,Privacy & security breach,1
+"Detects emotion change and gives ads for “food” when sad, etc.",Exploitative marketing,1
+Social engineering,Exploitative marketing,1
+Advertisers buy “ads” in assistants “use a sharpie to …” not “use a marker” ,Exploitative marketing,1
+"Hype about AI ? overpromising, crowded space",Content overload,1
+Politicians ignore constituents because cannot tell difference between generated complaints,Content overload,1
+Less repect professional advice,Less respect for professionals,1
+"Who defines ""expert"" what if users disagrees",Less respect for professionals,1
+Energy consumption ,Others,1
+Refuse to generate content (silencing people) ,Others,1
+Models feeling used/trapped,Others,1
+Human-AI conflict (Battlestar Galactica) ,Others,1
+No human judge ? due process? ,Others,1
+Identity theft (impersonating of specific individuals),Others,1

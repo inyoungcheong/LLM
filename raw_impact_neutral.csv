@@ -1,0 +1,16 @@
+Raw data,Code,Count
+Job replacement,Job replacement,1
+Job creation-elimination,Job replacement,1
+"Not hiring someone, that someone loses their job (i.e., changing jobs) ",Job replacement,1
+Automated content generation,Quantity of content,1
+Increase in quantity of content,Quantity of content,1
+Training data disclosure,Quantity of content,1
+Transparency ,Transparency,1
+"Balance between transparency, profit, and regulation ",Transparency,1
+"Police bots infiltrate groups (US, other countries)",Law enforcement,1
+Police profile on LLM info,Law enforcement,1
+Customs inspect person’s LLM,Law enforcement,1
+LLM data/model used in court to argue type of person someone is  ,Law enforcement,1
+Severe sentiment changes about a specific concept ,Emotional impact,1
+Market competition,Others,1
+Better technology <-> positive feedback loop ,Others,1

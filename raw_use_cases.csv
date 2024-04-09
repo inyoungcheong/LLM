@@ -1,0 +1,114 @@
+Raw data,Code,Count
+Creative writing,Writing/summarizing,1
+Generating social media content,Writing/summarizing,1
+Meeting notes & agenda making ,Writing/summarizing,2
+Text summarization,Writing/summarizing,2
+Reading/writing assistant,Writing/summarizing,1
+Journalist news writing ,Journalism,1
+News/media reporting,Journalism,1
+News generation,Journalism,1
+Creative co-pilot,Programming,1
+Coding,Programming,1
+Code & code comment generation,Programming,2
+Code generation in new domains (hardware? Other misc. Boilerplate?),Programming,1
+Text-to-app,Programming,1
+Generating LaTex or code,Programming,1
+Data generation (reverse prompting?),Programming,1
+Inputting problem statement & getting out an algorithm,Programming,1
+Inputting app spec and outputting app code,Programming,1
+Legal help,Legal advice,1
+Writing waivers or other legal documents,Legal advice,1
+Automated defense attorneys,Legal advice,1
+Legal system,Legal advice,1
+Making legal decisions based of court script,Legal advice,1
+Writing legal documents,Legal advice,1
+"Generating privacy policy, Terms of Services",Legal advice,1
+Business document drafting,Legal advice,1
+"Given symptoms, output diagnosis (automated WebMD)",Medical advice,1
+Medical doctor understanding & analysis ,Medical advice,1
+Investment theses/RL,Financial advice,1
+"Generative tech used in other AI fields e.g., planning for debts",Financial advice,1
+Advice: what should I do to get promoted?,Job advice,1
+Give difficult Q+A after practice talk,Job advice,1
+Tell me recipe given ingredients,Other advice,1
+"Professional assitant tools for doctors, CPAs, lawyers",Other advice,1
+"Menu, food descriptions, nutrition labels",Other advice,1
+Idea generation ,Research ,1
+Help science communication by translating things into lay language,Research ,1
+Generating research ideas,Research ,1
+"Research to gauge the ""average sentiment"" of a topic/person, etc. ",Research ,1
+Overleaf + ChatGPT,Research ,1
+Finding research methodology to use,Research ,1
+Writing background section or conclusion of research paper,Research ,1
+Academic writing ,Research ,1
+Search engine,Research ,1
+Search for information ,Research ,1
+Machine generated art & literature,Arts/entertainment ,1
+Text-to-video ,Arts/entertainment ,1
+"Writing songs, movies, plays, etc. ",Arts/entertainment ,1
+Entertainment (books/TV),Arts/entertainment ,1
+"Prediction of non-word features (large music models, large image models?) ",Arts/entertainment ,1
+Content recommendation -> on-demand content generation ,Arts/entertainment ,1
+Personalized content creation/curation,Arts/entertainment ,1
+Give pets a voice,Companionship,1
+Communication substitute,Companionship,1
+"Companion systmes (e.g., elderly who live alone to converse with) ",Companionship,1
+Metaverse dating apps,Companionship,1
+Talk with deceased relatives,Companionship,1
+People who want chatbot friend,Companionship,1
+Dating conversations,Companionship,1
+Imaginey pets (Tamagochi) ,Companionship,1
+Virtual romantic partnet,Companionship,1
+Imaginery significant other,Companionship,1
+Apps that mimic interacting with celebrity ,Companionship,1
+Relationship advice,Thearpy,1
+Therapy sessions,Thearpy,1
+Personalized emotional support. Therapist?,Thearpy,1
+Automatic therapy,Thearpy,1
+Talk-based therapy,Thearpy,1
+"Sentiment: based on chats or emails from person X, what does person X think about me?",Thearpy,1
+Homework help ,Education ,1
+Language learning tools,Education ,2
+Children in school learning to {write} (Insert topics),Education ,1
+Machine generated education curriculum,Education ,1
+Virtual school tutor/teacher,Education ,1
+Help learn new language,Education ,1
+Interactive QA system for kids to learn about reading & thinking ,Education ,1
+Dissemination of history ,Education ,1
+Translation ,Translation ,2
+Language translation to facilitate inter-cultural/regional communication ,Translation ,1
+Practicing something in another language ,Translation ,1
+Creating marketing language,Marketing,1
+Advertising,Marketing,1
+"Customer interactive, compelling ads",Marketing,1
+Recommendation systems maybe personalized ads,Marketing,1
+APs artificial persons,Virtual self,1
+Personalized virtual representation,Virtual self,1
+Personal assistants,Customer service,1
+Event planners,Customer service,1
+Virtual assistants/chatbots,Customer service,1
+Customer service,Customer service,1
+Government benefit claims & complaints,Customer service,1
+Patient intakes systems,Customer service,1
+Bank assistants,Customer service,1
+Tech support scripts,Customer service,1
+"Accessbility (dyslexia, neurodivergence)",Accessbility,1
+Accessbility tools,Accessbility,1
+Spam/scams,Disinformation/fraud,1
+Terrorism propaganda,Disinformation/fraud,1
+Disinformation & astroturfing ,Disinformation/fraud,1
+Automated spam/harassment,Disinformation/fraud,1
+Deepfake audio (phishing..) ,Disinformation/fraud,1
+Political persuasion,Persuasion,1
+Congnitive science strong generating stimuli,Persuasion,1
+Polic/immigration: Interrogation assistant,Law enforcement ,1
+"Government uses - summarize spy messages, search for secret information ",Law enforcement ,1
+Government summarizes intercepted calls,Law enforcement ,1
+Firewall monitoring (regex -> LLM) packet introspection,Others,1
+"Circumvent your ""textual footprint"" by generic LLM language instead",Others,1
+Child protective services interview assistants,Others,1
+Improving training (if there is a speech synthesizer) ,Others,1
+Online content moderation ,Others,1
+Theory of mind models,Others,1
+"App for ""Ferris Bueller"" (Help trick parents about their locations) ",Others,1
+Parent's control on child's personal LLM,Others,1

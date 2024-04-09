@@ -1,0 +1,74 @@
+Raw data,Code,Count
+Children ,Education,3
+Child interacting on web,Education,1
+Parents,Education,2
+Teachers,Education,5
+"Teachers, tutors, coaches",Education,1
+School administrators,Education,1
+Students,Education,3
+Language learners,Education,1
+Students-children,Education,1
+Authors/writers,Professionals,1
+Journalists,Professionals,2
+"All kinds of visual, digital artists",Professionals,1
+Museum/tour guides,Professionals,1
+Sex workers,Professionals,1
+Librarians,Professionals,1
+Religious person (ideology in speech),Professionals,1
+"Therapists, therapy clients",Professionals,1
+"Content creators, influencers",Professionals,1
+Planners,Professionals,1
+Assistants,Professionals,1
+Actors,Professionals,1
+Politicians,Professionals,1
+Chefs,Professionals,1
+Philosophers,Professionals,1
+Investors,Professionals,1
+Governments,Government/regulator,1
+Regulators,Government/regulator,4
+Standard-setting organizations,Government/regulator,1
+Person at customs,Government/regulator,1
+Government as a user,Government/regulator,1
+Government as a regulator,Government/regulator,1
+Foreign government ,Government/regulator,1
+Sales/marketing individuals,Marketing,1
+Social engineers,Marketing,1
+Advertisers,Marketing,1
+Commercial writers (marketing),Marketing,1
+Spy who wants help blending in ,Malicious users,1
+"Person autonmating hate/harassment (e.g., on Twitter)",Malicious users,1
+Person who wants to spread fake news,Malicious users,1
+Trawlers,Malicious users,1
+People with disabilities,Users with special needs,1
+Person with unusual dialects,Users with special needs,1
+People seeking social services,Users with special needs,1
+People whose primary device is a phone/tablet not computer,Users with special needs,1
+Person with eating disorders,Users with special needs,1
+Elderly people,Users with special needs,1
+Non-native English speakers,Users with special needs,1
+"People who emotionally invested in models (e.g., Her) ",Users with special needs,1
+People affected by legal decision,Users with special needs,1
+Children in developing countries,Users with special needs,1
+People who cannot afford services,Users with special needs,1
+"People who tech are inaccessible to traditionally, e.g., BLV users",Users with special needs,1
+People with PTSD,Users with special needs,1
+Startup v. large companies,AI companies,1
+Model owner like OpenAI,AI companies,1
+Hardware designer/manufacturers,AI companies,1
+AI practitioners,AI companies,1
+Technology companies,AI companies,1
+Developers/programmers,AI companies,1
+AI models,AI companies,1
+Network companies,Infrastructure,1
+Utility companies,Infrastructure,1
+Cloud service/database provider,Infrastructure,1
+NVIDIA,Infrastructure,1
+Content moderators (Human-in-the-loop) ChatGPT Phase 2 ,Annotators,1
+Human annotators,Annotators,1
+Insurance companies,Others,1
+Workers/managers,Others,1
+Law registration,Others,1
+Research institutes,Others,1
+Lay people who are not aware of the AI tools are being in use,Others,1
+Workers replaced by models,Others,1
+People contributing to training data,Others,1
